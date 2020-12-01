@@ -19,7 +19,7 @@ Current Purchased Orders
 
 
 The accuracy of the model is 90%
-I have used Classifiaction to solve the problem
+I have used Classification to solve the problem
 
 For the data I took a sample of 1000.The train set consists of the data marked as trained
 and the test set as the data marked as test.
